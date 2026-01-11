@@ -93,7 +93,7 @@ export default function ContactPage() {
                       href="mailto:contact.niloybhowmick@gmail.com"
                       className="text-white hover:text-blue-400 transition-colors"
                     >
-                      contact.niloybhowmick@gmail.com
+                      contact.Manish Saw@gmail.com
                     </a>
                   </div>
                 </div>
