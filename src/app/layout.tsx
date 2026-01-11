@@ -107,7 +107,7 @@ export default function RootLayout({
               url: "https://www.manishsaw.in",
               image: "/niloybhowmick.png",
               sameAs: [
-                "https://www.itsniloy.me",
+                "https://www.manishsaw.in",
                 "https://linkedin.com/in/ManishSaw", // update if available
                 "https://youtube.com/@ManishSaw", // update if available
                 "https://twitter.com/ManishSaw", // update if available
