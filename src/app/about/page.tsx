@@ -42,7 +42,7 @@ export default function AboutPage() {
                 <div className="relative w-64 h-64 mx-auto mb-6">
                   <Image
                     src="/niloybhowmick.png"
-                    alt="Niloy Bhowmick"
+                    alt="Manish Saw"
                     fill
                     className="rounded-full object-cover"
                   />
@@ -61,7 +61,7 @@ export default function AboutPage() {
                 {/* Social Icons */}
                 <div className="flex justify-center gap-4">
                   <a
-                    href="https://www.linkedin.com/in/niloy-bhowmick"
+                    href="https://www.linkedin.com/in/Manish Saw"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-blue-500 transition-colors"
@@ -69,7 +69,7 @@ export default function AboutPage() {
                     <Linkedin size={24} />
                   </a>
                   <a
-                    href="https://www.instagram.com/its.niloybhowmick"
+                    href="https://www.instagram.com/its.Manish Saw"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-pink-500 transition-colors"
@@ -77,7 +77,7 @@ export default function AboutPage() {
                     <Instagram size={24} />
                   </a>
                   <a
-                    href="https://www.facebook.com/Its.niloybhowmick"
+                    href="https://www.facebook.com/Manish Saw"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-blue-600 transition-colors"
@@ -85,7 +85,7 @@ export default function AboutPage() {
                     <Facebook size={24} />
                   </a>
                   <a
-                    href="https://www.youtube.com/@itsniloybhowmick"
+                    href="https://www.youtube.com/@Manish Saw"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-red-600 transition-colors"
@@ -93,7 +93,7 @@ export default function AboutPage() {
                     <Youtube size={24} />
                   </a>
                   <a
-                    href="https://github.com/Zan-getsu"
+                    href="https://github.com/Manish Saw"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-white transition-colors"
