@@ -48,7 +48,7 @@ export default function AboutPage() {
                   />
                 </div>
                 <h2 className="text-2xl font-bold mb-2 text-white">
-                  Niloy Bhowmick
+                  Manish Saw
                 </h2>
                 <p className="text-blue-400 mb-4">
                   Video Editor & Motion Graphics Designer
