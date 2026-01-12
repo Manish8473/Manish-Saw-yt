@@ -25,7 +25,7 @@ export default function AboutPage() {
             About Me
           </h1>
           <p className="text-gray-300 text-lg max-w-3xl mx-auto">
-            Hey there! I'm Niloy Bhowmick, a passionate Video Editor and Motion
+            Hey there! I'm Manish Saw, a passionate Video Editor and Motion
             Graphics Designer with a deep love for storytelling through visuals.
           </p>
         </motion.div>
@@ -41,7 +41,7 @@ export default function AboutPage() {
               <div className="text-center">
                 <div className="relative w-64 h-64 mx-auto mb-6">
                   <Image
-                    src="/niloybhowmick.png"
+                    src="/manishsaw.png"
                     alt="Manish Saw"
                     fill
                     className="rounded-full object-cover"
@@ -61,7 +61,7 @@ export default function AboutPage() {
                 {/* Social Icons */}
                 <div className="flex justify-center gap-4">
                   <a
-                    href="https://www.linkedin.com/in/Manish Saw"
+                    href="https://www.linkedin.com/in/ManishSaw"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-blue-500 transition-colors"
@@ -69,7 +69,7 @@ export default function AboutPage() {
                     <Linkedin size={24} />
                   </a>
                   <a
-                    href="https://www.instagram.com/its.Manish Saw"
+                    href="https://www.instagram.com/its.ManishSaw"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-pink-500 transition-colors"
