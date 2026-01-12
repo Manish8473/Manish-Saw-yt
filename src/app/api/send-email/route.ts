@@ -39,7 +39,7 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  const apiKey = process.env.re_HEEAJqum_3j4ViKKfaK5azeXVDfUUztm2;
+  const apiKey = process.env.RESEND_API_KEY;
   if (!apiKey) {
     return NextResponse.json(
       { error: "Missing Resend API Key" },
